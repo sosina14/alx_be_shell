@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l hello | awk '{print $1}'
+chmod 731 hello
